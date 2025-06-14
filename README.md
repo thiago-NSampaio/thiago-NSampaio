@@ -31,11 +31,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
-
----
-
-### 🐍 Animação das contribuições
-
-<div align="center">
-  <img src="https://github.com/thiago-NSampaio/thiago-NSampaio/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</div>
