@@ -1,8 +1,8 @@
 ## 👋 Bem-vindo(a) ao meu perfil!
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago-NSampaio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-NSampaio&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago-NSampaio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-NSampaio&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </div>
 
 ---
