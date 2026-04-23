@@ -9,7 +9,7 @@
 
 ### 🚀 Tecnologias que eu uso no meu dia a dia
 
-<div style="display: inline-flex; gap: 10px; flex-wrap: wrap; align-items: center; justify-content: center;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; justify-content: center;">
   <img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
